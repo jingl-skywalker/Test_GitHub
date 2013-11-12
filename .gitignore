@@ -28,6 +28,10 @@ local.properties
 # PDT-specific
 .buildpath
 
+target/
+.settings/
+.project
+.classpath
 
 #################
 ## Visual Studio
@@ -213,3 +217,4 @@ pip-log.txt
 
 #Mr Developer
 .mr.developer.cfg
+/target
